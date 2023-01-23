@@ -1,0 +1,66 @@
+{
+  "name": "Stati_Safety",
+  "tagType": "Folder",
+  "tags": [
+    {
+      "opcItemPath": "ns\u003d1;s\u003d[VI_LavCTau-PLC19-Stand]DB52,X54.2",
+      "name": "b_FDBACK_Comando_Emerg_Generale_Motore",
+      "tagType": "AtomicTag"
+    },
+    {
+      "opcItemPath": "ns\u003d1;s\u003d[VI_LavCTau-PLC19-Stand]DB52,X54.4",
+      "name": "b_FDBACK_AckReq_Emerg_Generale_Motore",
+      "tagType": "AtomicTag"
+    },
+    {
+      "opcItemPath": "ns\u003d1;s\u003d[VI_LavCTau-PLC19-Stand]DB52,X55.0",
+      "name": "bFdk_Rele_Emerg_STO_DRV_Motore",
+      "tagType": "AtomicTag"
+    },
+    {
+      "opcItemPath": "ns\u003d1;s\u003d[VI_LavCTau-PLC19-Stand]DB52,B57",
+      "name": "bytDIAG_FDBACK_STO_DRV",
+      "tagType": "AtomicTag"
+    },
+    {
+      "opcItemPath": "ns\u003d1;s\u003d[VI_LavCTau-PLC19-Stand]DB52,X55.3",
+      "name": "b_FDBACK_Errore_STO_DRV_Motore",
+      "tagType": "AtomicTag"
+    },
+    {
+      "opcItemPath": "ns\u003d1;s\u003d[VI_LavCTau-PLC19-Stand]DB52,X54.1",
+      "name": "b_Comando_Emerg_Generale_Motore_CH1_CH2",
+      "tagType": "AtomicTag"
+    },
+    {
+      "opcItemPath": "ns\u003d1;s\u003d[VI_LavCTau-PLC19-Stand]DB52,X55.4",
+      "name": "b_FDBACK_AckReq_STO_DRV_Motore",
+      "tagType": "AtomicTag"
+    },
+    {
+      "opcItemPath": "ns\u003d1;s\u003d[VI_LavCTau-PLC19-Stand]DB52,X55.1",
+      "name": "b_Comando_Emerg_STO_DRV_Motore_CH1_CH2",
+      "tagType": "AtomicTag"
+    },
+    {
+      "opcItemPath": "ns\u003d1;s\u003d[VI_LavCTau-PLC19-Stand]DB52,X54.3",
+      "name": "b_FDBACK_Errore_Emerg_Generale_Motore",
+      "tagType": "AtomicTag"
+    },
+    {
+      "opcItemPath": "ns\u003d1;s\u003d[VI_LavCTau-PLC19-Stand]DB52,X55.2",
+      "name": "b_FDBACK_Comando_STO_DRV_Motore",
+      "tagType": "AtomicTag"
+    },
+    {
+      "opcItemPath": "ns\u003d1;s\u003d[VI_LavCTau-PLC19-Stand]DB52,X54.0",
+      "name": "bFdk_Rele_Emerg_Generale_Motore",
+      "tagType": "AtomicTag"
+    },
+    {
+      "opcItemPath": "ns\u003d1;s\u003d[VI_LavCTau-PLC19-Stand]DB52,B56",
+      "name": "bytDIAG_FDBACK_EmergGenerale",
+      "tagType": "AtomicTag"
+    }
+  ]
+}
